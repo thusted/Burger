@@ -1,3 +1,24 @@
 body {
-    background-image: url("../img/burger.png");
+  background-image: url("../img/burger.png");
+}
+
+h1 {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 25px;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.burgersContent {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 25px;
+  padding: 2rem;
+}
+
+.addBurger {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 25px;
+  padding: 2rem;
+  text-align: center;
 }
