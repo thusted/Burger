@@ -7,7 +7,6 @@ This application allows users to log burgers with MySQL, Node, Express, Handleba
 * [Description](#Description)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Licenses](#Licenses)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
 * [Questions](#Questions)
