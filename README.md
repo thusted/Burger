@@ -3,6 +3,8 @@
 ## Description
 This application allows users to log burgers with MySQL, Node, Express, Handlebars, and a homemade ORM. It follows the MVC design pattern, utilizing Node and MySQL to query and route data in the application, and Handlebars to generate the HTML.
 
+Link to Deployed Application: https://calm-atoll-81003.herokuapp.com/
+
 ## Table of Contents
 * [Description](#Description)
 * [Installation](#Installation)
@@ -15,7 +17,7 @@ This application allows users to log burgers with MySQL, Node, Express, Handleba
 After cloning this repository, run npm i to make sure all the necessary dependencies are installed.
 
 ## Usage
-After installing all the necessary dependencies, enter the command, node server.js from your terminal and go to localhost:8080 in your Chrome Browser to view application. Alternatively, you can also go to the deployed application via heroku: 
+After installing all the necessary dependencies, enter the command, node server.js from your terminal and go to localhost:8080 in your Chrome Browser to view application. Alternatively, you can also go to the deployed application via heroku: https://calm-atoll-81003.herokuapp.com/
 
 ## Contributing
 Tiana Husted
