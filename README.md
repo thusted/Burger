@@ -1,4 +1,4 @@
-# Burger
+# Burger!
 
 ## Description
 This application allows users to log burgers with MySQL, Node, Express, Handlebars, and a homemade ORM. It follows the MVC design pattern, utilizing Node and MySQL to query and route data in the application, and Handlebars to generate the HTML.
